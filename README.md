@@ -9,7 +9,7 @@ I specialize in transforming complex data into actionable insights using advance
   - [Health Care Data Analytics](https://github.com/VishalJhaGitHub/HealthCareDataAnalytics)
 - 🧠 Skilled in: Deep learning, neural networks, predictive modeling, and data mining techniques.
 - 💬 Let’s connect: 
-  - [LinkedIn](https://www.linkedin.com/in/vishal-jha)
+  - [LinkedIn](https://www.linkedin.com/in/vishal-jha-48944b288/)
   - [Instagram](https://www.instagram.com/ivishaljha)
   - [Email](mailto:vishaljha.linkedin@gmail.com)
 
