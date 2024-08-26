@@ -18,7 +18,7 @@ I specialize in transforming complex data into actionable insights using advance
 - [Health Care Data Analytics](https://github.com/VishalJhaGitHub/HealthCareDataAnalytics)
 
 ## Skills
-- Python, R, SQL
+- Python
 - Machine Learning, Deep Learning, Neural Networks
 - Data Mining
 - Data Visualization (Power BI, Matplotlib, Seaborn)
