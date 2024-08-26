@@ -8,14 +8,17 @@ I specialize in transforming complex data into actionable insights using advance
   - [Customer Segmentation ML](https://github.com/VishalJhaGitHub/CustomerSegmentationML)
   - [Health Care Data Analytics](https://github.com/VishalJhaGitHub/HealthCareDataAnalytics)
 - 🧠 Skilled in: Deep learning, neural networks, predictive modeling, and data mining techniques.
-- 💬 Let’s connect: [LinkedIn](https://www.linkedin.com/in/vishal-jha) | [Email](vishaljha.linkedin@gmail.com)
+- 💬 Let’s connect: 
+  - [LinkedIn](https://www.linkedin.com/in/vishal-jha)
+  - [Instagram](https://www.instagram.com/ivishaljha)
+  - [Email](mailto:vishaljha.linkedin@gmail.com)
 
 ## Notable Projects
 - [Customer Segmentation ML](https://github.com/VishalJhaGitHub/CustomerSegmentationML)
 - [Health Care Data Analytics](https://github.com/VishalJhaGitHub/HealthCareDataAnalytics)
 
 ## Skills
-- Python
+- Python, R, SQL
 - Machine Learning, Deep Learning, Neural Networks
 - Data Mining
 - Data Visualization (Power BI, Matplotlib, Seaborn)
